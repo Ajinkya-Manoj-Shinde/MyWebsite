@@ -1,0 +1,31 @@
+body{
+    background-color: lightgray;
+}
+.nav{
+    font-family: sans-serif;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    
+}
+a{
+    text-decoration: none;
+    color:lightgray;
+    padding: 20px;
+}
+.contInfo{
+    border:5px;
+    border-color: rgb(5, 7, 8);
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.video{
+    display: flex;
+    padding: 50px;
+}
+iframe{
+    height:420;
+    width:400;
+    padding: 20px;
+}
